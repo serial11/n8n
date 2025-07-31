@@ -1,0 +1,2 @@
+This is a test file for the n8nLearning repository.
+You can use this file to verify file operations and test your workflows.
